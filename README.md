@@ -1,4 +1,4 @@
-# 🐾 LeakLynx  
+# LeakLynx  
 
 > **Sniffing out secrets before attackers do.**  
 
@@ -8,11 +8,11 @@ It hunts down exposed API keys, tokens, passwords, and other sensitive credentia
 ---
 
 ## ✨ Features
-- 🚨 Detects API keys, tokens, and secrets in codebases.  
-- 🔍 Scans both Git history and current files.  
-- ⚡ Lightweight and fast – no bulky dependencies.  
-- 🛠 Customizable regex patterns for your environment.  
-- 📊 Clear and developer-friendly output.  
+- Detects API keys, tokens, and secrets in codebases.  
+- Scans both Git history and current files.  
+- Lightweight and fast – no bulky dependencies.  
+- Customizable regex patterns for your environment.  
+- Clear and developer-friendly output.  
 
 ---
 
